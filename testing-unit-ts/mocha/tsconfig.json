@@ -14,12 +14,5 @@
         "noImplicitReturns": true,
         "forceConsistentCasingInFileNames": true
     },
-    "files": [
-        "index.ts",
-        "ec2.tests.ts",
-        "bucket_pair.ts",
-        "bucket_pair.tests.ts",
-        "mocks.ts",
-        "unwrap.ts"
-    ]
+    "files": ["index.ts", "ec2.spec.ts", "bucket_pair.ts", "bucket_pair.spec.ts", "mocks.ts", "unwrap.ts"]
 }
